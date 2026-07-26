@@ -1,1 +1,2 @@
-#Guia definitiva Meshcore Chile
+# Guia definitiva Meshcore Chile
+Ayudanos a mejorar esta guia definitiva.
